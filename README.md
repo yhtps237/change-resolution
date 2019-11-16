@@ -5,4 +5,4 @@ Use this script to change your computer screen
 resoluton to any resolution.
 
 Note:
- The screen resolution in this code is set to 1920x1080.
+  In this code Screen Resolution is set to 1920x1080.
