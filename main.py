@@ -17,7 +17,7 @@ resolution = cvt_data.split()[0]
 command2 = command2 + ' ' + cvt_data 
 data = sb.call(command2, shell=True)
 
-command3 = command3 + ' ' + device_name+ ' ' + resolution
+command3 = command3 + ' ' + device_name + ' ' + resolution
 sb.call(command3, shell=True)
 
 command4 = command4 + ' ' + device_name + ' --mode ' + resolution.replace('"','')
